@@ -5,4 +5,4 @@ Proof of concept code for transmitting data (morse) through glass-noodles, using
 -computer (or two)  
 -two ardiunos  
 -LDR  
--ultra bright LED  
+-ultra bright LED or laser diode  
